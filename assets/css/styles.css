@@ -1,0 +1,115 @@
+body{
+	width: 95%;
+	margin:auto;
+}
+
+#homepicture{
+	float: right;
+}
+
+#profilepicture{
+	float: left;
+}
+
+#hometext, #familynameinput{
+	display: inline-block;
+}
+
+h1{
+	margin-bottom: 60px;
+}
+
+.loginContent{
+	margin-top: 110px;
+}
+
+.registerContent{
+	margin-top: 20px;
+}
+
+.vertical-center{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+   	right: 0;
+	margin: auto;
+	height: 580px;
+}
+
+.list-group-flush .list-group-item{
+	padding-bottom: 55px;
+}
+
+#createfamily{
+	width: 40%;
+	float: right;
+}
+
+#cancel{
+	width: 40%;
+}
+
+#familymembers{
+	float: right;
+	border: 1px solid black;
+}
+
+#sharableLink{
+	margin-top: 25vh;
+    text-align: center;
+}
+
+#viewFamily{
+	text-align: center;
+    margin-top: -60px;
+}
+
+#editFamily{
+	text-align: center;
+    margin-top: -60px;
+	margin-bottom: 30px;
+}
+
+#familymembersedit{
+	border: 1px solid black;
+}
+
+.removeUser{
+	display: inline-block;
+	float: right;
+}
+
+.viewfamilymembers{
+	padding-left: 80px;
+    padding-right: 80px;
+}
+
+#registerfromlogin{
+	text-align: center;
+    margin-top: 30px;
+}
+
+.resetpassword{
+	float: right;
+}
+
+.modal{
+	height: 20%;
+	padding: 30px !important;
+	overflow: initial;
+}
+
+.modaln{
+	height: 25% !important;
+}
+
+.updatebtn{
+	float: right;
+    margin-top: 10%;
+}
+
+textarea{
+	width: 100%;
+}
+
